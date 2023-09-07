@@ -2,6 +2,7 @@
 - 👀 I’m interested in travel, hiking, binge-watching and coding :)
 - 🌱 I’m currently learning spring boot
 - 💞️ I’m looking to collaborate on java based projects
+- 2023 Developing projects with Python, docker,GCP , Postgres and Fast Api.
 - 📫 Reach me at harsh.gajra@gmail.com
 
 <!---
