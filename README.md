@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @HarshGajraSUNY
-- 👀 I’m interested in travel, hiking, binge-watching and coding :)
-- 🌱 I’m currently learning spring boot
-- 💞️ I’m looking to collaborate on java based projects
-- 2023 Developing projects with Python, docker,GCP , Postgres and Fast Api.
-- 📫 Reach me at harsh.gajra@gmail.com
+- 👀 I’m interested in traveling , hiking, coding and geo-politics :)
+- 🌱 I’m currently developing projects with Python, docker,GCP , Postgres and Fast Api.
+- 💞️ Rich experience with java based projects in past.
+- Ex-AWS Software Engineer (I understand cloud)
+- 📫 Reach me at harsh.gajra@gmail.com.
 
 <!---
 HarshGajraSUNY/HarshGajraSUNY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
